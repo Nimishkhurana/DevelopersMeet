@@ -17,7 +17,5 @@ const connectDB = async () => {
     process.exit(1);
   }
 };
-//   "mongoURI": "mongodb+srv://nkhurana:nimish3122@devconnector-khkz4.mongodb.net/test"
-// "mongoURI": "mongodb://127.0.0.1:27017/test?retrywrites=true",
 
 module.exports = connectDB;
