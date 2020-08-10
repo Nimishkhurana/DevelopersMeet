@@ -1,0 +1,6 @@
+{
+  "mongoURI": "mongodb+srv://nkhurana:nimish3122@devconnector-khkz4.mongodb.net/test",
+  "jwtSecret": "mysecrettoken",
+  "githubClientId": "ac2a68d66a75fd0b0c39",
+  "githubClientSecret": "195ee52f9ae179a176764b38fd63e8485594255a"
+}
